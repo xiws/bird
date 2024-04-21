@@ -2,5 +2,5 @@
 
 public interface ISnapshot
 {
-    byte[] GetSnapshot();
+    byte[] CreateSnapshot();
 }

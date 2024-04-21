@@ -2,5 +2,5 @@
 
 public interface IEventAggregate
 {
-    
+    long EventId { get; }
 }

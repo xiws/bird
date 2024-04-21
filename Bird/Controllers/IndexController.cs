@@ -1,6 +1,13 @@
-﻿namespace Bird.Controllers;
+﻿using Microsoft.AspNetCore.Mvc;
 
-public class IndexController
+namespace Bird.Controllers;
+[Route("api/[controller]")]
+[ApiController]
+public class IndexController : ControllerBase
 {
-    
+    [HttpGet]
+    public async Task<string> GetTodoItems()
+    {
+        return await Task.FromResult("test");
+    }
 }

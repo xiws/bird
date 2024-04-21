@@ -1,6 +1,13 @@
-﻿namespace Domain.NetWork.Event;
+﻿using Domain.Core;
 
-public class AddNetWorkHealthWebhookEvent
+namespace Domain.NetWork.Event;
+
+public class AddNetWorkHealthWebhookEvent : EventAggregate
 {
-    
+    public List<WebhookEntity> Webhook { get; set; }
+
+    public AddNetWorkHealthWebhookEvent(List<WebhookEntity> webhook)
+    {
+        Webhook = webhook;
+    }
 }

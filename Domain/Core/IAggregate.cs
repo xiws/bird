@@ -2,5 +2,5 @@
 
 public interface IAggregate
 {
-    
+    long AggregateId { get;  }
 }
