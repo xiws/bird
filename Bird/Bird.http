@@ -1,0 +1,6 @@
+@Bird_HostAddress = http://localhost:5034
+
+GET {{Bird_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
