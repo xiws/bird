@@ -27,12 +27,7 @@
 
     <ItemGroup>
       <None Remove="Bird.http" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Content Include="..\.dockerignore">
-        <Link>.dockerignore</Link>
-      </Content>
+      <None Remove="Dockerfile" />
     </ItemGroup>
 
 </Project>
