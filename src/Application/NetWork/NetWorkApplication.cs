@@ -26,7 +26,7 @@ public class NetWorkApplication
             }
         });
         HttpRequest request = new HttpRequest();
-        if (NetWorkService.TryPing(networkConfig.Host) > 0) return true;
+        if (NetWorkService.TryPing(networkConfig.Host) >= 0) return true;
 
         foreach (var webhook in networkConfig.Webhook)
         {

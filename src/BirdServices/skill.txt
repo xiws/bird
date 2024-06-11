@@ -1,0 +1,69 @@
+﻿{{Movelist/gen/ex|851|太晶爆发|テラバースト|Tera Blast|一般|特殊|80|100|10}}
+{{Movelist/gen/ex|852|线阱|スレッドトラップ|Silk Trap|虫|变化|—|—|10}}
+{{Movelist/gen/ex|853|下压踢|かかとおとし|Axe Kick|格斗|物理|120|90|10}}
+{{Movelist/gen/ex|854|扫墓|おはかまいり|Last Respects|幽灵|物理|50|100|10}}
+{{Movelist/gen/ex|855|琉光冲激|ルミナコリジョン|Lumina Crash|超能力|特殊|80|100|10}}
+{{Movelist/gen/ex|856|上菜|いっちょうあがり|Order Up|龙|物理|80|100|10}}
+{{Movelist/gen/ex|857|喷射拳|ジェットパンチ|Jet Punch|水|物理|60|100|15}}
+{{Movelist/gen/ex|858|辣椒精华|ハバネロエキス|Spicy Extract|草|变化|—|—|15}}
+{{Movelist/gen/ex|859|疾速转轮|ホイールスピン|Spin Out|钢|物理|100|100|5}}
+{{Movelist/gen/ex|860|鼠数儿|ネズミざん|Population Bomb|一般|物理|20|90|10}}
+{{Movelist/gen/ex|861|冰旋|アイススピナー|Ice Spinner|冰|物理|80|100|15}}
+{{Movelist/gen/ex|862|巨剑突击|きょけんとつげき|Glaive Rush|龙|物理|120|100|5}}
+{{Movelist/gen/ex|863|复生祈祷|さいきのいのり|Revival Blessing|一般|变化|—|—|1}}
+{{Movelist/gen/ex|864|盐腌|しおづけ|Salt Cure|岩石|物理|40|100|15}}
+{{Movelist/gen/ex|865|三连钻|トリプルダイブ|Triple Dive|水|物理|30|95|10}}
+{{Movelist/gen/ex|866|晶光转转|キラースピン|Mortal Spin|毒|物理|30|100|15}}
+{{Movelist/gen/ex|867|描绘|うつしえ|Doodle|一般|变化|—|100|10}}
+{{Movelist/gen/ex|868|甩肉|みをけずる|Fillet Away|一般|变化|—|—|10}}
+{{Movelist/gen/ex|869|仆刀|ドゲザン|Kowtow Cleave|恶|物理|85|—|10}}
+{{Movelist/gen/ex|870|千变万花|トリックフラワー|Flower Trick|草|物理|70|—|10}}
+{{Movelist/gen/ex|871|闪焰高歌|フレアソング|Torch Song|火|特殊|80|100|10}}
+{{Movelist/gen/ex|872|流水旋舞|アクアステップ|Aqua Step|水|物理|80|100|10}}
+{{Movelist/gen/ex|873|怒牛|レイジングブル|Raging Bull|一般|物理|90|100|10}}
+{{Movelist/gen/ex|874|淘金潮|ゴールドラッシュ|Make It Rain|钢|特殊|120|100|5}}
+{{Movelist/gen/ex|875|精神剑|サイコブレイド|Psyblade|超能力|物理|80|100|15}}
+{{Movelist/gen/ex|876|水蒸气|ハイドロスチーム|Hydro Steam|水|特殊|80|100|15}}
+{{Movelist/gen/ex|877|大灾难|カタストロフィ|Ruination|恶|特殊|变化|90|10}}
+{{Movelist/gen/ex|878|全开猛撞|アクセルブレイク|Collision Course|格斗|物理|100|100|5}}
+{{Movelist/gen/ex|879|闪电猛冲|イナズマドライブ|Electro Drift|电|特殊|100|100|5}}
+{{Movelist/gen/ex|880|断尾|しっぽきり|Shed Tail|一般|变化|—|—|10}}
+{{Movelist/gen/ex|881|冷笑话|さむいギャグ|Chilly Reception|冰|变化|—|—|10}}
+{{Movelist/gen/ex|882|大扫除|おかたづけ|Tidy Up|一般|变化|—|—|10}}
+{{Movelist/gen/ex|883|雪景|ゆきげしき|Snowscape|冰|变化|—|—|10}}
+{{Movelist/gen/ex|884|虫扑|とびつく|Pounce|虫|物理|50|100|20}}
+{{Movelist/gen/ex|885|起草|くさわけ|Trailblaze|草|物理|50|100|20}}
+{{Movelist/gen/ex|886|泼冷水|ひやみず|Chilling Water|水|特殊|50|100|20}}
+{{Movelist/gen/ex|887|强力钻|ハイパードリル|Hyper Drill|一般|物理|100|100|5}}
+{{Movelist/gen/ex|888|双光束|ツインビーム|Twin Beam|超能力|特殊|40|100|10}}
+{{Movelist/gen/ex|889|愤怒之拳|ふんどのこぶし|Rage Fist|幽灵|物理|50|100|10}}
+{{Movelist/gen/ex|890|铠农炮|アーマーキャノン|Armor Cannon|火|特殊|120|100|5}}
+{{Movelist/gen/ex|891|悔念剑|むねんのつるぎ|Bitter Blade|火|物理|90|100|10}}
+{{Movelist/gen/ex|892|电光双击|でんこうそうげき|Double Shock|电|物理|120|100|5}}
+{{Movelist/gen/ex|893|巨力锤|デカハンマー|Gigaton Hammer|钢|物理|160|100|5}}
+{{Movelist/gen/ex|894|复仇|ほうふく|Comeuppance|恶|物理|变化|100|10}}
+{{Movelist/gen/ex|895|水波刀|アクアカッター|Aqua Cutter|水|物理|70|100|20}}
+{{Movelist/gen/ex|896|灼热暴冲|バーンアクセル|Blazing Torque|火|物理|80|100|10}}
+{{Movelist/gen/ex|897|黑暗暴冲|ダークアクセル|Wicked Torque|恶|物理|80|100|10}}
+{{Movelist/gen/ex|898|剧毒暴冲|ポイズンアクセル|Noxious Torque|毒|物理|100|100|10}}
+{{Movelist/gen/ex|899|格斗暴冲|ファイトアクセル|Combat Torque|格斗|物理|100|100|10}}
+{{Movelist/gen/ex|900|魔法暴冲|マジカルアクセル|Magical Torque|妖精|物理|100|100|10}}
+{{Movelist/gen/ex|901|血月|ブラッドムーン|Blood Moon|一般|特殊|140|100|5}}
+{{Movelist/gen/ex|902|刷刷茶炮|シャカシャカほう|Matcha Gotcha|草|特殊|80|90|15}}
+{{Movelist/gen/ex|903|糖浆炸弹|みずあめボム‎|Syrup Bomb‎|草|特殊|60|85|10}}
+{{Movelist/gen/ex|904|棘藤棒|ツタこんぼう|Ivy Cudgel|草|物理|100|100|10}}
+{{Movelist/gen/ex|905|电光束|エレクトロビーム|Electro Shot|电|特殊|130|100|10}}
+{{Movelist/gen/ex|906|晶光星群|テラクラスター|Tera Starstorm|一般|特殊|120|100|5}}
+{{Movelist/gen/ex|907|随机光|きまぐレーザー|Fickle Beam|龙|特殊|80|100|5}}
+{{Movelist/gen/ex|908|火焰守护|かえんのまもり|Burning Bulwark|火|变化|—|—|10}}
+{{Movelist/gen/ex|909|迅雷|じんらい|Thunderclap|电|特殊|70|100|5}}
+{{Movelist/gen/ex|910|强刃攻击|パワフルエッジ|Mighty Cleave|岩石|物理|95|100|5}}
+{{Movelist/gen/ex|911|迅子利刃|タキオンカッター|Tachyon Cutter|钢|特殊|50|—|10}}
+{{Movelist/gen/ex|912|硬压|ハードプレス|Hard Press|钢|物理|变化|100|10}}
+{{Movelist/gen/ex|913|龙声鼓舞|ドラゴンエール|Dragon Cheer|龙|变化|—|—|15}}
+{{Movelist/gen/ex|914|魅诱之声|みわくのボイス|Alluring Voice|妖精|特殊|80|100|10}}
+{{Movelist/gen/ex|915|豁出去|やけっぱち|Temper Flare|火|物理|75|100|10}}
+{{Movelist/gen/ex|916|闪电强袭|サンダーダイブ|Supercell Slam|电|物理|100|95|15}}
+{{Movelist/gen/ex|917|精神噪音|サイコノイズ|Psychic Noise|超能力|特殊|75|100|10}}
+{{Movelist/gen/ex|918|快手还击|はやてがえし|Upper Hand|格斗|物理|65|100|15}}
+{{Movelist/gen/ex|919|邪毒锁链|じゃどくのくさり|Malignant Chain|毒|特殊|100|100|5}}
